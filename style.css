@@ -1,0 +1,27 @@
+#btncarrusel{
+background-color: rgb(17, 16, 16); 
+color: rgb(235, 230, 219);   
+border-radius: 5%;
+border-color: rgb(236, 221, 11);
+}
+
+#divimagenes{
+    min-height: 20% !important;
+    max-height: 25% !important;
+}
+
+
+#imgprincipal{
+ min-height: 300px;
+ max-height: 350px;
+}
+
+.tachado{
+    text-decoration: line-through;
+    color: rgb(161, 160, 157);
+}
+
+#imgauriculares{
+    max-height: 375px;
+}
+

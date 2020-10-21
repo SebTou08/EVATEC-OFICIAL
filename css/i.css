@@ -1,0 +1,16 @@
+#videocss{
+    height: 90%;
+    max-height: 160px;
+    max-width: 2000px;
+    min-width: 200px !important;
+    min-height: 150px;
+    width: 200px !important;
+   padding-left: 100%;
+}
+
+#imgprincipal{
+    
+}
+
+
+
