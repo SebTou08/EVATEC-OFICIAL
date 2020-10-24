@@ -25,3 +25,22 @@ border-color: rgb(236, 221, 11);
     max-height: 375px;
 }
 
+#spnmodal{
+    font-size: 150%;
+}
+#precioanterior{
+    text-decoration: line-through;
+    color: rgb(161, 160, 157);
+}
+
+#imgcargadores{
+   max-height: 330px;
+}
+
+#imgcam{
+    max-height: 335px;
+}
+
+#imgtom{
+    max-height: 335px;
+}
